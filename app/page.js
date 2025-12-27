@@ -23,7 +23,7 @@ export default function SchoolDashboard() {
     { id: 9, name: "Sneha Roy", class: "7-A", roll: 11, avatar: null, marks: { Math: 94, English: 90, Science: 92, Social: 89 } },
     { id: 10, name: "Amit Singh", class: "6-C", roll: 3, avatar: null, marks: { Math: 76, English: 68, Science: 72, Social: 70 } },
     { id: 11, name: "Divya Sharma", class: "8-B", roll: 6, avatar: null, marks: { Math: 89, English: 84, Science: 87, Social: 83 } },
-    { id: 12, name: "Kunal Mehta", class: "9-A", roll: 21, avatar: null, marks: { Math: 67, English: 70, Science: 65, Social: 69 } }
+    { id: 12, name: "Arjun Kumar", class: "8-C", roll: 21, avatar: null, marks: { Math: 67, English: 70, Science: 65, Social: 69 } }
   ]);
 
   const [teachers] = useState([
